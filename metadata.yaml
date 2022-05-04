@@ -1,0 +1,26 @@
+_repo: Chinese-Pottery-and-Porcelain-Vol-I-Pottery-and-Early-Wares_67970
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hobson, Robert L.
+    gutenberg_agent_id: '54556'
+    url: http://www.gutenberg.org/2009/agents/54556
+description: ''
+gutenberg_issued: '2022-05-02'
+identifiers:
+  gutenberg: '67970'
+language: en
+pgterms:marc904: https://archive.org/details/chinesepotterypo01hobs/page/n14
+pgterms:marc905: 20070215211730hobson
+pgterms:marc906: '1915'
+pgterms:marc907: GB
+production_note: Chris Curnow, Joseph Cooper, Jane Robins and images courtesy of The
+  Internet Archive and the Online Distributed Proofreading Team at https://www.pgdp.net
+publication_note: United Kingdom :Cassell and Company, Ltd,1915.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Chinese Pottery and Porcelain: Vol I. Pottery and Early Wares'
+url: http://www.gutenberg.org/ebooks/67970
